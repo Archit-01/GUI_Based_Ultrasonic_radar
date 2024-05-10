@@ -81,4 +81,5 @@ Contributions are welcome! If you find any bugs, issues, or have suggestions for
 
 ## Author
 
-Abhishek Rajput.
+Archit Patil.
+
